@@ -1,5 +1,7 @@
 # Datasets for "Machine Learning for Dummies" 2nd ed.
------------------------------------------------------
+***
+![](https://media.wiley.com/product_data/coverImage300/66/11197240/1119724066.jpg)
+***
 <P>This repository contains some of the datasets present in <B>"Machine Learning for Dummies" 2nd edition</B>.</P>
 <P>Readers can access these datasets by the code present on the book, or simply downloading this repository or its single files.</P>
 
