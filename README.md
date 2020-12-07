@@ -32,7 +32,7 @@ The figures in the Air Passenger Data are the monthly totals of international ai
 
 ## mnist.feather
 <EM>Chapter 15, Going a Step beyond Using Support Vector Machines</EM><BR>
-A replica of the dataset provided by Scikit-learn. This is just a portion of the real MNIST dataset, available at the website http://yann.lecun.com/exdb/mnist/. The full dataset consists of 60,000 training examples and 10,000 test examples. 
+A replica of the dataset of handwritten digits provided by Scikit-learn. This is just a portion of the real MNIST dataset, available at the website http://yann.lecun.com/exdb/mnist/. The full dataset consists of 60,000 training examples and 10,000 test examples. 
 
 ## wine_quality.feather
 <EM>Chapter 16, Resorting to Ensembles of Learners</EM><BR>
