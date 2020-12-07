@@ -1,4 +1,4 @@
-# Datasets for Machine Learning for Dummies 2md ed.
+# Datasets for Machine Learning for Dummies 2nd ed.
 
 air_passengers.feather
 
