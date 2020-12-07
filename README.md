@@ -2,9 +2,11 @@
 <p align="center">
   <img src="https://media.wiley.com/product_data/coverImage300/66/11197240/1119724066.jpg" alt="ml4d cover"/>
 </p>
-***
-<P>This repository contains some of the datasets present in <B>"Machine Learning for Dummies" 2nd edition</B>.</P>
-<P>Readers can access these datasets by the code present on the book, or simply downloading this repository or its single files.</P>
+
+<P>This repository contains some of the datasets present in <B>"Machine Learning for Dummies" 2nd edition</B>.<BR>
+<P>Presented in feather format for Python and R compatibility, readers can access these datasets by the code present on the book, or simply by downloading this entire repository or its single files of interest.</P>
+
+> Feather is a portable file format for storing Arrow tables or data frames (from languages like Python or R) that utilizes the Arrow IPC format internally. Feather was created early in the Arrow project as a proof of concept for fast, language-agnostic data frame storage for Python (pandas) and R. See: [Feather File Format](https://arrow.apache.org/docs/python/feather.html)
 
 ## tennis.feather
 <EM>Chapter 10, Starting with Simple Learners</EM><BR>
