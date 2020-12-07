@@ -30,9 +30,17 @@ The dataset records the gender, body mass, the flipper length and the bill lengt
 A well-known problem in times series, the Air Passenger Data is an example first found in the classic book “Time Series Analysis, Forecasting and Control” by Box, Jenkins and Reinsel, published in 1976 by Wiley and it has now become a public classic to be found in all books and software about time series. 
 The figures in the Air Passenger Data are the monthly totals of international airline passengers, 1949 to 1960, of an American airline company. The interesting aspect of such figures is that they feature a growing trend that is not linear and they display some seasonal recurrence (for instance more travelling during summer).
 
+## mnist.feather
+<EM>Chapter 15, Going a Step beyond Using Support Vector Machines</EM><BR>
+A replica of the dataset provided by Scikit-learn. This is just a portion of the real MNIST dataset, available at the website http://yann.lecun.com/exdb/mnist/. The full dataset consists of 60,000 training examples and 10,000 test examples. 
+
 ## wine_quality.feather
 <EM>Chapter 16, Resorting to Ensembles of Learners</EM><BR>
 The wine quality dataset (P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. Modeling wine preferences by data mining from physicochemical properties. In Decision Support Systems, Elsevier, 47(4):547-553, 2009), combines both white and red wines. The data associates physicochemical tests (alcohol concentration, density, acidity and so on) on some Portuguese wines with the quality evaluation of experts. The dataset offers the opportunity to treat it both as a regression or classification problem.
+
+## lfw_people.feather
+<EM>Chapter 17, Classifying Images</EM><BR>
+Labeled Faces in the Wild dataset that contains images of famous people collected over the Internet: http://scikit-learn.org/stable/datasets/labeled_faces.html
 
 ## shakespeare_lines_in_plays.feather
 <EM>Chapter 18, Scoring Opinions and Sentiments</EM><BR>
@@ -42,7 +50,3 @@ A dataset collecting all of Shakespeare’s plays. It contains 217 rows, each on
 <EM>Chapter 18, Scoring Opinions and Sentiments</EM><BR>
 The Large Movie Review Dataset is a dataset released by the Stanford University.
 The dataset (http://ai.stanford.edu/~amaas/data/sentiment/) has been presented in the 2011 paper “Learning Word Vectors for Sentiment Analysis” by Andrew Maas and other authors (http://ai.stanford.edu/~amaas/papers/wvSent_acl2011.pdf). It collects 50.000 movies reviews from IMDb, the Internet Movie Database, an online database of information related to movies, TV programs and even video-games. The dataset contains an even number of positive and negative reviews. Half of the reviews were intended for training and the other half for testing purposes.
-
-## lfw_people.feather
-
-## mnist.feather
