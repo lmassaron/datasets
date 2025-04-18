@@ -1,0 +1,15 @@
+outlook,temperature,humidity,wind,play
+Sunny,Hot,High,Weak,0
+Sunny,Hot,High,Strong,0
+Sunny,Mild,High,Weak,0
+Sunny,Mild,Normal,Strong,1
+Sunny,Cool,Normal,Weak,1
+Overcast,Hot,High,Weak,1
+Overcast,Hot,Normal,Weak,1
+Overcast,Mild,High,Strong,1
+Overcast,Cool,Normal,Strong,1
+Rain,Mild,High,Weak,1
+Rain,Mild,High,Strong,0
+Rain,Mild,Normal,Weak,1
+Rain,Cool,Normal,Weak,1
+Rain,Cool,Normal,Strong,0
